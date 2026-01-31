@@ -48,9 +48,16 @@ class HVAC : Driver
       var temp_delta = real(webserver.arg("m_miel_temp"))
       var current_temp = real(sensors['MiElHVAC']['SetTemperature'])
       var new_temp = current_temp + temp_delta
-      # Clamp between 10 and 31
-      if new_temp < 10 new_temp = 10 end
-      if new_temp > 31 new_temp = 31 end
+      # Clamp temperature based on unit (°C or °F)
+      if sensors['TempUnit'] == 'C'
+        # Celsius: 10-31°C
+        if new_temp < 10 new_temp = 10 end
+        if new_temp > 31 new_temp = 31 end
+      else
+        # Fahrenheit: 50-88°F
+        if new_temp < 50 new_temp = 50 end
+        if new_temp > 88 new_temp = 88 end
+      end
       tasmota.cmd(string.format("HVACSetTemp %.1f", new_temp))
     end
     
