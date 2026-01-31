@@ -43,7 +43,6 @@ For complete hardware setup instructions including wiring diagrams, photos, and 
 
 - **[Integration with Home Assistant via Tasmota (Archive)](https://web.archive.org/web/20240314034821/https://isaiahchia.com/2022/06/)** - Complete end-to-end guide with detailed photos and CN105 pinout
 - **[Hacking A Mitsubishi Heat Pump Part 1](https://chrdavis.github.io/hacking-a-mitsubishi-heat-pump-Part-1/)** - Hardware overview and initial setup
-- **[Hacking A Mitsubishi Heat Pump Part 2](https://chrdavis.github.io/hacking-a-mitsubishi-heat-pump-Part-2/)** - Software configuration and testing
 
 **Important Notes:**
 - Berry scripting is only available on ESP32, not ESP8266
