@@ -23,6 +23,7 @@ This Berry driver extends the native Tasmota MiElHVAC driver by adding a web int
 - Ideal for monitoring or when controlling via Home Assistant/MQTT
 
 Both versions provide a clean, responsive interface matching Tasmota's design.
+
 <img src="images/hvac_with_expanded.png" align="center" style="margin-right: 20px; margin-bottom: 20px;">
 
 ## Requirements
