@@ -1,4 +1,4 @@
-# Tasmota MiElHVAC Web UI Controls
+# Tasmota MiElHVAC Display and Web UI Controls driver
 
 Enhanced Berry driver for Tasmota providing interactive web UI controls for Mitsubishi Electric heat pumps.
 
