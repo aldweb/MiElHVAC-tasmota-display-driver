@@ -6,6 +6,7 @@ Enhanced Berry driver for Tasmota providing interactive web UI controls for Mits
 
 <img src="images/mitsubishi_heat_pump.png" align="left" width="300" style="margin-right: 20px; margin-bottom: 20px;">
 This Berry driver extends the native Tasmota MiElHVAC driver by adding a web interface for Mitsubishi Electric heat pumps. Two versions are available:
+<br clear="all" />
 
 **Full Version (`hvac_with_controls.be`):**
 - Interactive web controls directly in the Tasmota interface
