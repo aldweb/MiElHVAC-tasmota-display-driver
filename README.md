@@ -9,6 +9,7 @@ This Berry driver extends the native Tasmota MiElHVAC driver by adding a web int
 <br clear="all" />
 
 Two versions are available:
+
 **Full Version (`hvac_with_controls.be`):**
 - Interactive web controls directly in the Tasmota interface
 - Temperature adjustment buttons (-1°, +½°, +1°)
