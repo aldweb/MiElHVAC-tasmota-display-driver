@@ -1,5 +1,10 @@
 # Tasmota MiElHVAC Display and Web UI Controls driver
 
+[![Tasmota](https://img.shields.io/badge/Compatible%20with-Tasmota-00ADD8?logo=tasmota&logoColor=white)](https://tasmota.github.io/docs/)
+[![Platform](https://img.shields.io/badge/Platform-ESP32%2FESP8266-informational?logo=espressif&logoColor=white)](https://www.espressif.com/)
+[![Latest Version](https://img.shields.io/github/v/tag/aldweb/tasmota-mielhvac-display-driver?label=Latest%20Version&logo=github&color=blue)](https://github.com/aldweb/tasmota-mielhvac-display-driver/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Enhanced Berry driver for Tasmota providing interactive web UI controls for Mitsubishi Electric heat pumps.
 
 ## Overview
