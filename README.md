@@ -1,6 +1,6 @@
 # Tasmota MiElHVAC Display and Web UI Controls driver
 
-[![Platform](https://img.shields.io/badge/Platform-ESP32%2FESP8266-informational?logo=espressif&logoColor=white)](https://www.espressif.com/)
+[![Platform](https://img.shields.io/badge/Platform-ESP32-informational?logo=espressif&logoColor=white)](https://www.espressif.com/)
 [![Tasmota](https://img.shields.io/badge/Compatible%20with-Tasmota-00ADD8?logo=tasmota&logoColor=white)](https://tasmota.github.io/docs/)
 [![Berry](https://img.shields.io/badge/Script-Berry-9cf?logo=berry&logoColor=white)](https://tasmota.github.io/docs/Berry/)
 [![Latest Version](https://img.shields.io/github/v/tag/aldweb/tasmota-mielhvac-display-driver?label=Latest%20Version&logo=github&color=blue)](https://github.com/aldweb/tasmota-mielhvac-display-driver/releases)
